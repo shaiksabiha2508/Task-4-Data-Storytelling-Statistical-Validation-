@@ -1,13 +1,4 @@
 Task4-Data-Storytelling-Statistical-Validation
-/README.md
-
-Preview
-
-Code
-
-Blame
-56 lines (45 loc) · 1.42 KB
-Task4-Data-Storytelling-Statistical-Validation
 Data Analytics Internship Project
 Project Overview
 This project focuses on analyzing sales data to identify business insights using data analytics techniques. The project includes data cleaning, exploratory data analysis (EDA), dashboard creation, and data storytelling.
